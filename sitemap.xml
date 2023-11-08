@@ -5,11 +5,6 @@
       <loc>https://teuliere.github.io/complement2/</loc>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
-      <image:image>
-         <image:loc>https://teuliere.github.io/complement2/z-commun/images/100_1814-4.jpg</image:loc>
-         <image:caption>Saint Martin Lys</image:caption>
-         <image:title>Saint Martin lys vue de la via ferrata</image:title> 
-      </image:image>
    </url>
    <url>
       <loc>https://teuliere.github.io/complement/voie-ferree-historique/plan-divers.html</loc>
@@ -26,4 +21,9 @@
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
+   <url>
+      <loc>https://teuliere.github.io/complement2/voie-ferree-historique/accident-1978.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>  
 </urlset>
