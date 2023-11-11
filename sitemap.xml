@@ -26,4 +26,24 @@
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>  
+   <url>
+      <loc>https://teuliere.github.io/complement2/voie-ferree-historique/objet-divers.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <video:video>
+       <video:thumbnail_loc>https://teuliere.github.io/complement2/img-obj-paul/IMG_20231104_182025.jpg</video:thumbnail_loc>
+       <video:title>Sifflet de locomotive</video:title>
+       <video:description>
+         montre un sifflet de locomotive en action grâce à un compresseur
+       </video:description>
+       <video:content_loc>
+          https://teuliere.github.io/complement2/img-obj-paul/VID_20231104_182134_o.mp4
+       </video:content_loc>
+       <video:player_loc>
+         https://www.example.com/videoplayer.php?video=123
+       </video:player_loc>
+       <video:publication_date>2023-11-11T21:00:30+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>      
+     </video:video>
+   </url>  
 </urlset>
