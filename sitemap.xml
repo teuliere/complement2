@@ -57,7 +57,12 @@
       <priority>0.8</priority>
    </url>  
    <url>
-      <loc>https://teuliere.github.io/complement2/voie-ferree-historique/objet-divers.html</loc>
+      <loc>https://teuliere.github.io/complement2/voie-ferree-historique/registres-lapradelle.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>  
+   <url>
+      <loc>https://teuliere.github.io/complement2/cpa-voie/cpa-voie.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
       <video:video>
