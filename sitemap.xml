@@ -78,6 +78,21 @@
       <priority>0.8</priority>
    </url>  
    <url>
+      <loc>https://teuliere.github.io/complement2/pont/passerelle_pont_vieux.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>  
+   <url>
+      <loc>https://teuliere.github.io/complement2/pont/pont_fer.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>  
+   <url>
+      <loc>https://teuliere.github.io/complement2/classement_terrains/classement_terrains.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>  
+   <url>
       <loc>https://teuliere.github.io/complement2/voie-ferree-historique/objet-divers.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
